@@ -49,7 +49,7 @@ This project is a Streamlit-based chatbot application that leverages a language 
 1. **Run the Streamlit application:**
 
     ```sh
-    streamlit run app.py
+    streamlit run CrimeBot.py
     ```
 
 2. **Interact with the chatbot:**
@@ -58,7 +58,7 @@ This project is a Streamlit-based chatbot application that leverages a language 
 
 ## Code Overview
 
-- **app.py**: The main application file that sets up the Streamlit interface and integrates with the language model and Neo4j database.
+- **CrimeBot.py**: The main application file that sets up the Streamlit interface and integrates with the language model and Neo4j database.
 
 ### Key Components
 
